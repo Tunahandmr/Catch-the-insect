@@ -14,6 +14,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
+    
 TextView timeText;
 TextView scoreText;
 int score;
